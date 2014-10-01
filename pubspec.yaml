@@ -1,0 +1,12 @@
+name: pub_package_data
+version: 0.0.1
+author: Sean Eagan <seaneagan1@gmail.com>
+description: Provides data about packages published to pub.dartlang.org.
+homepage: https://github.com/seaneagan/pub_package_data
+dependencies:
+  barback: any
+  http: any
+  logging: any
+  pub_semver: any
+# transformers:
+# - pub_package_data

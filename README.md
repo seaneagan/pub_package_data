@@ -1,4 +1,4 @@
-pub_package_list
+pub_package_data
 ================
 
-Provides a list of packages from pub.dartlang.org
+Provides data about packages published to pub.dartlang.org.
